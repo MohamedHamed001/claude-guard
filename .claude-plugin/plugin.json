@@ -1,0 +1,10 @@
+{
+  "name": "guard",
+  "version": "0.1.0",
+  "description": "Stops a push made with the wrong GitHub account, and asks before a command that deletes folders, drops databases or rewrites git history, showing what it would remove",
+  "author": {
+    "name": "Mohamed Hamed"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/MohamedHamed001/claude-guard"
+}

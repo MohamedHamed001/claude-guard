@@ -1,0 +1,16 @@
+{
+  "name": "claude-guard",
+  "owner": {
+    "name": "Mohamed Hamed"
+  },
+  "plugins": [
+    {
+      "name": "guard",
+      "source": "./",
+      "description": "Stops a push made with the wrong GitHub account, and asks before a command that deletes folders, drops databases or rewrites git history, showing what it would remove"
+    }
+  ],
+  "metadata": {
+    "description": "Stops a push made with the wrong GitHub account, and asks before a command that deletes folders, drops databases or rewrites git history, showing what it would remove"
+  }
+}
